@@ -9,7 +9,9 @@ body {
   .menu{
     background-color:white;
   }
-  
+  .menu{
+    box-shadow: 2px 0px 20px rgb(1, 64, 116);
+  }
   .menu ul{
     display:flex;
     justify-content:space-around;
